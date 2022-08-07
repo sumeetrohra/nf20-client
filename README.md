@@ -1,4 +1,13 @@
-# Getting Started with Create React App
+# NF20 Client
+
+## Deployed Contracts
+
+| Networks         | Contract       | Address                                                                                                                       |
+| ---------------- | -------------- | ----------------------------------------------------------------------------------------------------------------------------- |
+| Ethereum Rinkeby | CultNFT        | [0xFF2C1cf1f92AA823A9bBfA9CDd15E2529ea51fFf](https://rinkeby.etherscan.io/address/0xFF2C1cf1f92AA823A9bBfA9CDd15E2529ea51fFf) |
+| Ethereum Rinkeby | Fractionalizer | [0x800449D010C28e9B58969042Cc7588760b524A14](https://rinkeby.etherscan.io/address/0x800449D010C28e9B58969042Cc7588760b524A14) |
+
+[Repo for the NF20 Contracts](https://github.com/arjun-r34/nf20)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
